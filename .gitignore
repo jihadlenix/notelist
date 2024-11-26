@@ -1,9 +1,7 @@
 # Node.js dependencies
 frontend/node_modules/
-
 # Environment variables
 .env
-backend/venv/
 # Logs
 *.log
 logs/
